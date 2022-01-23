@@ -8,12 +8,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^0.13.4
 
   cupertino_icons: ^0.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  hotreloader: ^3.0.0
 
 flutter:
 
